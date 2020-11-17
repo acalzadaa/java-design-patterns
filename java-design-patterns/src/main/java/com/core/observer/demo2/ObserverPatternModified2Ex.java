@@ -1,4 +1,4 @@
-package com.core.creational.observer.demo2;
+package com.core.observer.demo2;
 
 public class ObserverPatternModified2Ex {
 	public static void main(String[] args) {

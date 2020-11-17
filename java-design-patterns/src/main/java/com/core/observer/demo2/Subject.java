@@ -1,4 +1,4 @@
-package com.core.creational.observer.demo2;
+package com.core.observer.demo2;
 
 import java.util.ArrayList;
 import java.util.List;

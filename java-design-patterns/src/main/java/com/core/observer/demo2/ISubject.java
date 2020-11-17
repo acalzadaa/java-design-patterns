@@ -1,4 +1,4 @@
-package com.core.creational.observer.demo2;
+package com.core.observer.demo2;
 
 interface ISubject {
 	void register(IObserver o);

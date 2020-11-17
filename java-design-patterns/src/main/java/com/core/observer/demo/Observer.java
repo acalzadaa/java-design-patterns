@@ -1,4 +1,4 @@
-package com.core.creational.observer.demo;
+package com.core.observer.demo;
 
 public class Observer {
 
